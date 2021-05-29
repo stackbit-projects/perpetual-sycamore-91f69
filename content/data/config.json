@@ -106,8 +106,7 @@
                 "icon_position": "center",
                 "new_window": true
             }
-        ],
-        "content": "&copy; Stackbit. All rights reserved."
+        ]
     },
     "domain": "https://perpetual-sycamore-91f69.netlify.app"
 }
